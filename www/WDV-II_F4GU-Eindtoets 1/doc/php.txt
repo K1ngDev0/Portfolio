@@ -1,1 +1,0 @@
-PHP: Hypertext Preprocessor, de backend van het web, hier gaan we in BLOK B nog veeeeeel meer tijd aan besteden
