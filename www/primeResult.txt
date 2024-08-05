@@ -1,0 +1,63 @@
+Prime for next loop, version I.
+2024-03-19 12:25:52
+Lus van 1000000 tot 1003000.
+Duur: 0:00:55.
+55 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------
+Prime for next loop, version I.
+2024-03-19 12:28:05
+Lus van 1000000 tot 1003000.
+Duur: 0:00:54.
+54 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------
+Prime for next loop, version I.
+2024-03-19 12:40:20
+Lus van 1000000 tot 1003000.
+Duur: 0:00:54.
+54 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------
+Prime for next loop, version I.
+2024-03-19 12:42:27
+Lus van 1000000 tot 1003000.
+Duur: 0:00:54.
+54 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------
+Prime for next loop, version I.
+2024-03-19 12:57:14
+Lus van 1000000 tot 1003000.
+Duur: 0:00:32.
+32 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------
+Prime for next loop, version I.
+2024-03-19 13:26:56
+Lus van 1000000 tot 1003000.
+Duur: 0:00:03.
+3 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------
+Prime for next loop, version I.
+2024-03-19 13:39:31
+Lus van 1000000 tot 1003000.
+Duur: 0:00:00.
+0 seconden.
+233 priemgetallen gevonden.
+K1ngDev
+WINNT
+-------------------------

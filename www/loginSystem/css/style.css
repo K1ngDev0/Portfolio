@@ -1,0 +1,43 @@
+:root {
+    --default: black;
+    --lightGrey: #dbdbdb;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: var(--lightGrey);
+    min-width: 10%;
+    width: 20%;
+    max-width: 40%;
+    resize: horizontal;
+    height: 100%;
+    overflow: auto;
+}
+
+.navigation {
+    border-bottom: 2px solid black;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--default);
+}
+
+nav a {
+    font-weight: 600;
+    font-size: 1rem;
+}

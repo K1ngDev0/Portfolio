@@ -1,0 +1,871 @@
+2023-09-05 11:25:22: Init DataDir at: C:\laragon\data\mysql-8
+2023-11-16 08:35:31: Skip creating auto virtual host for "Kinderboerderij (3)" because the name is invalid.
+2023-11-16 14:14:17: Skip creating auto virtual host for "Kinderboerderij (3)" because the name is invalid.
+2023-11-17 11:50:40: Skip creating auto virtual host for "Kinderboerderij (3)" because the name is invalid.
+2023-11-28 10:49:12: Skip creating auto virtual host for "Kinderboerderij (3)" because the name is invalid.
+2023-12-18 12:16:13: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2023-12-18 12:16:13: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2023-12-18 18:19:24: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2023-12-18 18:19:24: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2023-12-19 11:30:46: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2023-12-19 11:30:46: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2023-12-19 11:46:32: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2023-12-19 11:46:32: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2023-12-20 13:52:31: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2023-12-20 13:52:31: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2023-12-20 18:28:09: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2023-12-20 18:28:09: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-03 18:29:00: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-03 18:29:00: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-04 13:34:24: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-04 13:34:24: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-08 18:15:44: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-08 18:15:44: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-09 10:51:14: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-09 10:51:14: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-10 14:14:51: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-10 14:14:51: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-11 09:00:31: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-11 09:00:31: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-15 12:28:57: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-15 12:28:57: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-16 10:49:03: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-16 10:49:03: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-16 12:28:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-16 12:28:59: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-17 14:41:51: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-17 14:41:51: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-17 19:52:45: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-17 19:52:45: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-18 09:09:05: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-18 09:09:05: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-21 13:01:22: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-21 13:01:22: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-24 09:10:17: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-24 09:10:17: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-24 09:10:17: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-01-24 12:14:41: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-24 12:14:42: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-24 12:14:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-01-25 15:34:29: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-25 15:34:29: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-25 15:34:29: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-01-25 15:34:29: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-01-25 15:34:29: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-01-29 12:56:13: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-01-29 12:56:13: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-01-29 12:56:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-01-29 12:56:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-01-29 12:56:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-04 13:31:42: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-04 13:31:42: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-04 13:31:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-04 13:31:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-04 13:31:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-05 13:11:44: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-05 13:11:44: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-05 13:11:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-05 13:11:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-05 13:11:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-05 13:51:46: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-05 13:51:46: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-05 13:51:46: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-05 13:51:46: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-05 13:51:46: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-06 09:57:21: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-06 09:57:21: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-06 09:57:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-06 09:57:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-06 09:57:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-06 11:03:37: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-06 11:03:37: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-06 11:03:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-06 11:03:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-06 11:03:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-06 11:04:40: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-06 11:04:40: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-06 11:04:40: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-06 11:04:40: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-06 11:04:40: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-06 12:27:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-06 12:27:49: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-06 12:27:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-06 12:27:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-06 12:27:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-07 08:37:20: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-07 08:37:21: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-07 08:37:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-07 08:37:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-07 08:37:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-07 08:38:13: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-07 08:38:13: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-07 08:38:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-07 08:38:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-07 08:38:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-07 19:02:36: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-07 19:02:36: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-07 19:02:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-07 19:02:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-07 19:02:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-08 09:37:34: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-08 09:37:34: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-08 09:37:34: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-08 09:37:34: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-08 09:37:34: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-08 10:37:37: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-08 10:37:37: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-08 10:37:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-08 10:37:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-08 10:37:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-08 14:35:45: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-08 14:35:45: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-08 14:35:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-08 14:35:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-08 14:35:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-09 08:55:20: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-09 08:55:20: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-09 08:55:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-09 08:55:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-09 08:55:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-09 21:12:54: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-09 21:12:55: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-09 21:12:55: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-09 21:12:55: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-09 21:12:55: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-12 12:49:56: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-12 12:49:56: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-12 12:49:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-12 12:49:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-12 12:49:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-13 10:36:06: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-13 10:36:06: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-13 10:36:06: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-13 10:36:06: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-13 10:36:06: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-15 12:24:28: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-15 12:24:28: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-15 12:24:28: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-15 12:24:28: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-15 12:24:28: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-15 15:40:07: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-15 15:40:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-15 15:40:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-15 15:40:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-15 15:40:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-16 14:37:36: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-16 14:37:36: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-16 14:37:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-16 14:37:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-16 14:37:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-19 11:21:53: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-19 11:21:53: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-19 11:21:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-19 11:21:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-19 11:21:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-19 19:45:36: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-19 19:45:36: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-19 19:45:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-19 19:45:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-19 19:45:36: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-20 09:28:25: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-20 09:28:25: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-20 09:28:25: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-20 09:28:25: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-20 09:28:25: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-20 21:46:10: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-20 21:46:10: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-20 21:46:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-20 21:46:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-20 21:46:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-21 08:42:30: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-21 08:42:31: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-21 08:42:31: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-21 08:42:31: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-21 08:42:31: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-21 21:07:57: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-21 21:07:57: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-21 21:07:57: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-21 21:07:57: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-21 21:07:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-22 09:52:13: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-22 09:52:13: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-22 09:52:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-22 09:52:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-22 09:52:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-22 09:53:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-22 09:53:58: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-22 09:53:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-22 09:53:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-22 09:53:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-22 13:28:11: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-22 13:28:11: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-22 13:28:11: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-22 13:28:11: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-22 13:28:11: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-22 13:28:13: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-22 13:28:13: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-22 13:28:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-22 13:28:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-22 13:28:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-23 08:40:09: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-23 08:40:09: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-23 08:40:09: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-23 08:40:09: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-23 08:40:09: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-24 17:32:45: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-24 17:32:45: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-24 17:32:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-24 17:32:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-24 17:32:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-26 13:05:07: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-26 13:05:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-26 13:05:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-26 13:05:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-26 13:05:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-26 19:35:20: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-26 19:35:20: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-26 19:35:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-26 19:35:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-26 19:35:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-27 09:13:54: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-27 09:13:54: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-27 09:13:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-27 09:13:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-27 09:13:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-27 09:25:50: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-27 09:25:50: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-27 09:25:50: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-27 09:25:50: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-27 09:25:50: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-27 11:52:07: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-27 11:52:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-27 11:52:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-27 11:52:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-27 11:52:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-27 22:36:21: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-27 22:36:21: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-27 22:36:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-27 22:36:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-27 22:36:21: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-28 08:41:17: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-28 08:41:17: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-28 08:41:17: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-28 08:41:17: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-28 08:41:17: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-02-29 11:36:00: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-02-29 11:36:00: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-02-29 11:36:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-02-29 11:36:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-02-29 11:36:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-03 15:06:22: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-03 15:06:22: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-03 15:06:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-03 15:06:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-03 15:06:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-04 11:59:14: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-04 11:59:14: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-04 11:59:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-04 11:59:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-04 11:59:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:03:31: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:03:32: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:03:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:03:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:03:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:13:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:13:48: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:13:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:13:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:13:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:20:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:20:58: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:20:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:20:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:20:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:55:41: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:55:41: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:55:41: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:55:41: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:55:41: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:57:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 09:57:14: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 09:57:14: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 09:57:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 09:57:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 09:57:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-05 12:11:06: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-05 12:11:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-05 12:11:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-05 12:11:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-05 12:11:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-06 11:30:01: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-06 11:30:01: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-06 11:30:01: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-06 11:30:01: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-06 11:30:01: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-07 13:31:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-07 13:31:48: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-07 13:31:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-07 13:31:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-07 13:31:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-08 08:38:25: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-08 08:38:25: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-08 08:38:25: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-08 08:38:25: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-08 08:38:25: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-09 10:56:00: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-09 10:56:00: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-09 10:56:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-09 10:56:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-09 10:56:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-11 16:26:32: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-11 16:26:32: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-11 16:26:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-11 16:26:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-11 16:26:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-12 11:04:51: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-12 11:04:51: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-12 11:04:51: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-12 11:04:51: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-12 11:04:51: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-13 07:38:53: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-13 07:38:54: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-13 07:38:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-13 07:38:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-13 07:38:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-13 09:08:33: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-13 09:08:33: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-13 09:08:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-13 09:08:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-13 09:08:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-13 09:08:44: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-13 09:08:44: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-13 09:08:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-13 09:08:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-13 09:08:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-14 19:37:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-14 19:37:48: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-14 19:37:48: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-14 19:37:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-14 19:37:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-14 19:37:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-17 13:09:10: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-17 13:09:10: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-17 13:09:10: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-17 13:09:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-17 13:09:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-17 13:09:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-17 13:35:05: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-17 13:35:05: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-17 13:35:05: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-17 13:35:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-17 13:35:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-17 13:35:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-18 11:23:26: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-18 11:23:26: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-18 11:23:26: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-18 11:23:26: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-18 11:23:26: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-18 11:23:26: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-19 10:54:54: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-19 10:54:55: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-19 10:54:55: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-19 10:54:55: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-19 10:54:55: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-19 10:54:55: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-20 08:34:55: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-20 08:34:56: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-20 08:34:56: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-20 08:34:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-20 08:34:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-20 08:34:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-21 17:14:14: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-21 17:14:14: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-21 17:14:14: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-21 17:14:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-21 17:14:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-21 17:14:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-22 08:35:40: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-22 08:35:40: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-22 08:35:40: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-22 08:35:40: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-22 08:35:40: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-22 08:35:40: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-03-26 10:50:17: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-03-26 10:50:18: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-03-26 10:50:18: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-03-26 10:50:18: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-03-26 10:50:18: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-03-26 10:50:18: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-03 08:33:46: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-03 08:33:46: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-03 08:33:46: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-03 08:33:46: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-03 08:33:46: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-03 08:33:46: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-08 08:43:04: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-08 08:43:04: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-08 08:43:04: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-08 08:43:04: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-08 08:43:04: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-08 08:43:04: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-09 13:51:43: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-09 13:51:43: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-09 13:51:43: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-09 13:51:43: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-09 13:51:43: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-09 13:51:43: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-09 15:03:05: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-09 15:03:05: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-09 15:03:05: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-09 15:03:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-09 15:03:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-09 15:03:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-09 19:28:42: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-09 19:28:42: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-09 19:28:42: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-09 19:28:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-09 19:28:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-09 19:28:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-10 08:36:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-11 11:43:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-14 14:54:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-15 08:48:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-17 08:43:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-22 19:29:08: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-22 19:29:08: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-22 19:29:08: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-22 19:29:10: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-22 19:29:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-22 19:29:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-22 19:29:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-04-23 16:51:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-06 08:43:53: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-07 08:59:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-08 08:36:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-08 08:36:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-09 08:04:04: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-10 12:22:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-10 23:44:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-11 08:32:30: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-13 11:19:11: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-13 11:19:12: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-13 11:19:12: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-13 11:19:12: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-13 11:19:12: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-13 11:19:12: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-13 11:19:12: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-14 11:07:48: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-15 08:41:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-16 08:40:24: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-16 11:31:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-16 12:04:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-16 12:04:48: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-16 12:04:49: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-16 12:04:49: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-16 12:04:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-16 12:04:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-16 12:04:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-17 10:33:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-17 18:02:15: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-19 19:44:05: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-21 09:17:42: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-22 08:39:08: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-22 08:39:08: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-22 08:39:08: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-22 08:39:08: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-22 08:39:08: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-22 08:39:08: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-22 08:39:09: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-22 10:13:56: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-22 12:19:30: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-22 21:54:59: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-22 21:54:59: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-22 21:55:07: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-22 21:55:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-22 21:55:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-22 21:55:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-22 21:55:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-23 08:43:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-27 08:36:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-29 08:45:59: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-29 08:45:59: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-29 08:46:00: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-29 08:46:00: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-29 08:46:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-29 08:46:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-29 08:46:00: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-29 08:48:19: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-29 08:48:19: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-29 08:48:19: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-29 08:48:19: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-29 08:48:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-29 08:48:19: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-29 08:48:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-29 08:51:20: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-05-30 11:32:12: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-05-30 11:32:13: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-05-30 11:32:13: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-05-30 11:32:13: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-05-30 11:32:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-05-30 11:32:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-05-30 11:32:13: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-03 13:25:15: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-03 13:25:15: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-03 13:25:15: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-03 13:25:15: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-03 13:25:16: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-03 13:25:16: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-03 13:25:16: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-04 11:20:14: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-05 09:34:54: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-06 08:48:01: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-07 18:16:52: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-08 12:41:21: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-08 12:41:21: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-08 12:41:22: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-08 12:41:22: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-08 12:41:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-08 12:41:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-08 12:41:22: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-09 15:48:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-10 11:41:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-11 13:19:43: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-15 10:51:48: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-15 10:51:49: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-15 10:51:49: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-15 10:51:49: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-15 10:51:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-15 10:51:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-15 10:51:49: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-17 20:51:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-17 20:51:59: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-17 20:51:59: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-17 20:51:59: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-17 20:51:59: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-17 20:51:59: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-17 20:51:59: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-18 09:55:37: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-18 14:56:32: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-19 15:06:43: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-19 15:06:43: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-19 15:06:44: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-19 15:06:44: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-19 15:06:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-19 15:06:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-19 15:06:44: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-19 15:06:58: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: mysqladmin: connect to server at 'localhost' failed
+error: 'Can't connect to MySQL server on 'localhost:3306' (10061)'
+Check that mysqld is running on localhost and that the port is 3306.
+You can check this by doing 'telnet localhost 3306'
+
+2024-06-19 15:24:27: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-19 15:24:27: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-19 15:24:27: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-19 15:24:27: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-19 15:24:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-19 15:24:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-19 15:24:27: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-20 10:19:26: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-24 22:38:07: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-25 15:22:58: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-25 22:30:09: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-25 22:30:09: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-25 22:30:09: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-25 22:30:09: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-25 22:30:09: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-25 22:30:09: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-25 22:30:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-28 10:10:59: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-06-28 18:33:45: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-07-14 15:15:10: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-07-14 15:15:10: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-07-14 15:15:10: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-07-14 15:15:10: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-07-14 15:15:10: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-07-14 15:15:11: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-07-14 15:15:11: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-07-21 13:32:28: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-07-23 09:47:39: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-07-24 09:49:33: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "herhalingsopdracht week12" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "Projecten pagina test" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "takenlijst copy" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "WDV-II Weekcheck 13" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 1" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2" because the name is invalid.
+2024-07-31 11:47:08: Skip creating auto virtual host for "WDV-II_F4GU-Eindtoets 2 - gemaakt" because the name is invalid.

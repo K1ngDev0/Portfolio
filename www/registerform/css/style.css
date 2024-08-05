@@ -1,0 +1,11 @@
+.form-class {
+    border: 1px solid black;
+}
+
+.form-group {
+    background-color: #bc1b1b;
+    color: white;
+    padding: 10px 20px;
+    width: 450px;
+    border: 1px double #ff6347;
+}

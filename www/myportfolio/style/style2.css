@@ -1,0 +1,99 @@
+a{
+    text-decoration: none;
+}
+p {
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+ul li{
+    font-size: 20px;
+}
+h2 {
+    font-size: 26px;
+    color: white;
+    font-family: 'Dhurjati', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: auto;
+    width: 968px;
+    background-color: #04003c;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header, footer {
+    background-color: #163160;
+    padding-bottom: 15px;
+}
+h1{
+    margin: 15px, 0;
+    text-align: center;
+    padding: 20px;
+}
+nav a{
+    color: #7CA5B8;
+    padding: 5px;
+    border: 3px solid #202020;
+    border-radius: 10px;
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+main{
+    text-align: center;
+    background-color: #7CA5B8;
+}
+h2{
+    border-bottom: 1px solid dimgray;
+    padding: 2px;
+    margin-bottom: 5px;
+    background-image: url("../img/K1ngMusic.png") 
+}
+ul{
+    padding-left: 30px;
+}
+li{
+    margin-bottom: 5px;
+}
+.wrapper {
+    width: 968px;
+    margin: 0 auto;
+}
+.story-box {
+    margin: 0 auto;
+    width: 400px;
+    padding: 20px;
+}
+
+ol {
+    padding: 20px;
+}
+
+ol a:visited {
+    color: red;
+}
+
+.back:visited, .itch:visited {
+    color: red;
+}
+
+.itch {
+    font-weight: 1000;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    padding: 20px 320px;
+}
+
+@media only screen and (max-width: 550px) {
+    p {
+        font-size: 1.5rem;
+    }
+}

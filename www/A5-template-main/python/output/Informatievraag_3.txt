@@ -1,0 +1,6 @@
+     datum             team1          team2 uitslag scheidsrechter  overtredingen
+29-12-2023          UHC Norg Rot-Weiss Köln     6-2      Rotteveel             93
+06-01-2024       HC Piershil    UHC Echteld     0-3       Kuijpers             92
+05-01-2024          Dalen HC     UHC Marrum     1-2      Rotteveel             86
+11-01-2024    UHC Posterholt    UHC Hamburg     4-6      Gerritsen             85
+26-12-2023 Harvestehuder THC    UHC Hamburg     7-3      Gerritsen             83

@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{  
+    font-family: Raleway;
+}
+
+h2{
+    font-weight: normal;
+}
+.animal-card {
+    border: 1px solid black;
+    display: flex;
+    grid-row: span 1;
+    align-items: center;
+}
+
+.animal-card div{
+    padding-left: 10px;
+}
+
+.large {
+    grid-row: span 2;
+}
+
+.animal-card img{
+    max-width: 230px;
+}
+
+.container{
+    margin: 0 auto;
+    width: 960px;
+    margin-top: 10px;
+}
+
+.animals {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 10px;
+}

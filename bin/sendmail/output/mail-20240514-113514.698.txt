@@ -1,0 +1,7 @@
+To: ferry@designbytes.nl
+Subject: Dit is een test
+From: website@go-development.nl
+Reply-To: ferry@designbytes.nl
+X-Mailer: PHP/8.1.10
+
+Ha Ferry,<br> Komt dit mailtje bij je binnen?<br>MVG<br> Gert
